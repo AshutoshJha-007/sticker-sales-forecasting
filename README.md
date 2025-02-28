@@ -71,6 +71,6 @@ This competition provided insights into time series forecasting, feature enginee
 
 ### Contact
 For any questions, feel free to reach out to me:
-- **Kaggle**: [@AshutoshJha-007](https://www.kaggle.com/AshutoshJha-007)
+- **Kaggle**: [iamtheoneaj]([https://www.kaggle.com/AshutoshJha-007](https://www.kaggle.com/iamtheoneaj))
 - **GitHub**: [AshutoshJha-007](https://github.com/AshutoshJha-007)
 - **Email**: ashutosh.k.jha007@gmail.com
